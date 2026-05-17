@@ -1,0 +1,774 @@
+fileFormatVersion: 2
+guid: a54687dfc36486648b9e2195f790fd71
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_0
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 866
+        width: 242
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647c08b14762f884bac02d04f9108bec
+      internalID: 624931674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 638
+        width: 167
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432d95af6efc2f844acd36d08b4b4163
+      internalID: 1765698654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_2
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 868
+        width: 221
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c31bf43ee004f246a4a7ad019027e8f
+      internalID: -1456790283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 640
+        width: 163
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01e5a68b180f9f42a84b0c32ff014e1
+      internalID: 2056674716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 860
+        width: 226
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ac03e661f8c864699ddbfd7b69dc64
+      internalID: 1766691690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_5
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 641
+        width: 200
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95105e5c64a18b64483fd2f0f3778f7a
+      internalID: 1419270072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 868
+        width: 196
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef3ac5ddf185ee418f9a93d51b0d3f5
+      internalID: -345983663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_7
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 652
+        width: 177
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4d953be9bb94a4eb8f6b19d05e28bf
+      internalID: -1883812236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_8
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 868
+        width: 213
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae4c83df8714a04088b49a34d72ccd0
+      internalID: 1018443764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_9
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 644
+        width: 143
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108f447ac77fa794596d227301e3f69c
+      internalID: -948319976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_10
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 876
+        width: 234
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd71172bf16c9da48a4065577e465824
+      internalID: 471484884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_11
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 644
+        width: 173
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb4449728da4f04fa537228b76cbd1d
+      internalID: 1284735328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 414
+        width: 232
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d971f3ed5109242bccc7ed802ca3ae
+      internalID: 386141661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 200
+        width: 208
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d20f0897995fe4b8beadbb5d36f54e
+      internalID: -1970352363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_14
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 195
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64fce7233019cb4eac570d9648b0ad8
+      internalID: -824983921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 421
+        width: 204
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa041adc3aca9174bbd95b64659145f7
+      internalID: 1124933353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_16
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 206
+        width: 224
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5fb5e40db54904a9a78674e7064a4a
+      internalID: -61220537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_17
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 216
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc5a6b49fb3e03459e19e3ebb05ff0d
+      internalID: 429685780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_18
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 419
+        width: 210
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073c8429fe563a64a8abc9a7d82c1bb9
+      internalID: -1302761464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_19
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 205
+        width: 187
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2c8aaa9a3594f449fd7ea20e51385c
+      internalID: -589395386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_20
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 0
+        width: 180
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c245a4d6de190f8488b117f4a69d2788
+      internalID: 1254557819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_21
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 415
+        width: 194
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c25da1e8af1c064092bc42445f80d40
+      internalID: -1908168572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_22
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 204
+        width: 190
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d828a4a2fe6750d4b8ce9762d5d9c709
+      internalID: 1951265948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_23
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 0
+        width: 187
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b664ab6fab8f61f47ae0464de2a60220
+      internalID: -248313648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_24
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 427
+        width: 183
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86846d01c363ebf4cb025acdac848a26
+      internalID: -448258382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_25
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 204
+        width: 183
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c7fb355b3b18d45a6e1476d69469d5
+      internalID: -366783815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_26
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 0
+        width: 182
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e45da03f11e0a4694da2012671b2e3
+      internalID: 960928787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_27
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 428
+        width: 198
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee65df2edeb28c6458a0a39b976066b2
+      internalID: -609971957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_28
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 215
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39819e2ec333b3f4cb9487b37d4defb0
+      internalID: -720235136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms_BleedingHearts_29
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 0
+        width: 204
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dbdfb38a608f84c8cfd244da4d2d92
+      internalID: -1439832312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mushrooms_BleedingHearts_0: 624931674
+      Mushrooms_BleedingHearts_1: 1765698654
+      Mushrooms_BleedingHearts_10: 471484884
+      Mushrooms_BleedingHearts_11: 1284735328
+      Mushrooms_BleedingHearts_12: 386141661
+      Mushrooms_BleedingHearts_13: -1970352363
+      Mushrooms_BleedingHearts_14: -824983921
+      Mushrooms_BleedingHearts_15: 1124933353
+      Mushrooms_BleedingHearts_16: -61220537
+      Mushrooms_BleedingHearts_17: 429685780
+      Mushrooms_BleedingHearts_18: -1302761464
+      Mushrooms_BleedingHearts_19: -589395386
+      Mushrooms_BleedingHearts_2: -1456790283
+      Mushrooms_BleedingHearts_20: 1254557819
+      Mushrooms_BleedingHearts_21: -1908168572
+      Mushrooms_BleedingHearts_22: 1951265948
+      Mushrooms_BleedingHearts_23: -248313648
+      Mushrooms_BleedingHearts_24: -448258382
+      Mushrooms_BleedingHearts_25: -366783815
+      Mushrooms_BleedingHearts_26: 960928787
+      Mushrooms_BleedingHearts_27: -609971957
+      Mushrooms_BleedingHearts_28: -720235136
+      Mushrooms_BleedingHearts_29: -1439832312
+      Mushrooms_BleedingHearts_3: 2056674716
+      Mushrooms_BleedingHearts_4: 1766691690
+      Mushrooms_BleedingHearts_5: 1419270072
+      Mushrooms_BleedingHearts_6: -345983663
+      Mushrooms_BleedingHearts_7: -1883812236
+      Mushrooms_BleedingHearts_8: 1018443764
+      Mushrooms_BleedingHearts_9: -948319976
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
