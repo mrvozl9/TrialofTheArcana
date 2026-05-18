@@ -3,7 +3,7 @@ Trial of the Arcana | Game Design Document (GDD)
 
  GitHub Repository
 
-############################################################################################################
+###########################################################################################################
 
 1. GAME OVERVIEW
 
@@ -99,23 +99,23 @@ The player must survive dangerous environments, defeat enemies, and learn the po
 
 	Player Mechanics:
 
-1. Movement:
+	Movement:
 	* Move Left / Right → Arrow Keys
 	* Jump → Z
 	* Float → Hold Z
 	* Dash → C
 
-2. Combat:
+	Combat:
 	* Air Slash → X
 	* Earth Shield → S
 	* Fire Meteor → D
 	* Holy Water → F
 
-3. UI Interactions:
+	UI Interactions:
 	* Open Book UI → Tab
 	* Pause Menu → Esc
 
-############################################################################################################
+###########################################################################################################
 
 2. ART & AUDIO DIRECTION:
 
@@ -144,7 +144,7 @@ The player progresses through symbolic trials while uncovering the truth behind 
 	* Magical sound effects,
 	* Emotional and mysterious soundtrack.
 
-############################################################################################################
+###########################################################################################################
 
 3. EDUCATIONAL CONCEPT
 
@@ -172,7 +172,7 @@ game mechanic teaches the player that "The Fool" represents freedom, new beginni
 hidden paths (intuition and hidden knowledge). By requiring players to use these specific abilities to progress, they internalize 
 the psychological and symbolic meaning of the cards through direct, repetitive gameplay action.
 
-############################################################################################################
+###########################################################################################################
 
 4. TEAM MEMBERS & CONTRIBUTION LIST
 
@@ -209,4 +209,4 @@ components to match the dark fantasy atmosphere of the game.
 	* Visual Design Support: Assisted with maintaining the overall visual consistency of the project, ensuring the UI, enemies, and world art 
 matched the game’s Tarot-inspired aesthetic.
 
-############################################################################################################
+###########################################################################################################
